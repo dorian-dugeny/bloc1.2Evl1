@@ -1,4 +1,10 @@
-﻿using System;
+﻿/**
+ * titre : moyenne note 
+ * author : dorian dugeny 
+ * date : 22/10/2020
+ * */
+
+using System;
 
 namespace Dorian
 {
